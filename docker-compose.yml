@@ -1,0 +1,38 @@
+version: "2"
+services:
+    app:
+        container_name: internetnation_admin_app5
+        build:
+            context: ./
+            dockerfile: app.dockerfile
+        working_dir: /var/www
+        volumes:
+            - ./:/var/www
+        environment:
+            - "DB_PORT=33061"
+            - "DB_HOST=db"
+    web:
+        container_name: internetnation_admin_web5
+        build:
+            context: ./
+            dockerfile: web.dockerfile
+        working_dir: /var/www
+        restart: always
+        volumes_from:
+            - app
+        ports:
+            - "5001:8080"
+    # db:
+    #     container_name: internetnation_admin_db
+    #     image: mysql
+    #     volumes:
+    #         - .dbdata:/var/lib/mysql
+    #     environment:
+    #         - "MYSQL_DATABASE=internetnation_admin"
+    #         - "MYSQL_USER=internetnation_admin"
+    #         - "MYSQL_PASSWORD=int423erne581tn@at30591on"
+    #         - "MYSQL_ROOT_PASSWORD=int423erne581tn@at30591on"
+    #     ports:
+    #         - "54325:5306"
+volumes:
+  dbdata:

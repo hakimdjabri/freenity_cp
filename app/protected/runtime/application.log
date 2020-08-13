@@ -1,0 +1,2841 @@
+2019/10/14 11:48:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/site/login
+---
+2019/10/14 12:01:56 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/messages
+---
+2019/10/14 12:53:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/
+---
+2019/10/15 00:53:37 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/
+---
+2019/10/15 01:05:41 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/
+---
+2019/10/15 01:10:38 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/
+---
+2019/10/15 09:32:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/site/login
+---
+2019/10/15 18:56:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/site/login
+---
+2019/10/16 08:39:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/site/login
+---
+2019/10/16 18:20:00 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://94.249.192.84:9993/site/login
+---
+2019/10/22 16:29:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/22 16:37:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/23 06:22:11 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/24 07:23:30 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/24 08:07:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2019/10/24 14:11:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2019/10/24 14:11:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/ijs". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/ijs')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/ijs/
+---
+2019/10/25 07:22:41 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/26 02:17:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/26 07:05:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/10/26 12:38:39 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/01 12:12:58 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/06 16:39:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/17 23:50:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/site/login
+---
+2019/11/20 16:26:50 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/site/login
+---
+2019/11/25 08:35:18 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 09:45:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 10:16:37 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 10:22:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 10:33:39 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 12:05:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 21:43:50 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/site/login
+---
+2019/11/28 21:44:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/site/login
+---
+2019/11/28 21:44:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/
+---
+2019/11/28 21:47:37 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop4851.com:9993/messages
+---
+2019/11/28 21:47:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop4851.com:9993/messages
+---
+2019/11/28 22:04:25 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/messages
+---
+2019/11/28 22:06:08 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/messages
+---
+2019/11/28 22:07:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/messages
+---
+2019/11/28 22:08:00 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:09:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:09:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:10:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:11:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:12:26 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:12:29 [error] [php] require(/var/www/app/protected/controllers/SettingsController.php): failed to open stream: Permission denied (/var/www/yii/framework/web/CWebApplication.php:354)
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CWebApplication->run()
+REQUEST_URI=/settings
+2019/11/28 22:12:31 [error] [php] require(/var/www/app/protected/controllers/SettingsController.php): failed to open stream: Permission denied (/var/www/yii/framework/web/CWebApplication.php:354)
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CWebApplication->run()
+REQUEST_URI=/settings
+2019/11/28 22:12:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_settings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_settings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:12:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_autopostings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_autopostings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:12:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_settings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_settings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:12:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_autopostings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_autopostings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:13:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_settings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_settings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:13:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_autopostings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_autopostings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:13:08 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_settings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_settings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/messages
+---
+2019/11/28 22:13:08 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_autopostings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_autopostings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/messages
+---
+2019/11/28 22:13:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_settings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_settings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/11/28 22:13:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "media/Input/Icons/navbar_autopostings2x.png". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('media/Input/Ico...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/media/Input/Icons/navbar_autopostings2x.png
+HTTP_REFERER=http://5.175.225.184:8883/
+---
+2019/12/15 00:25:58 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/site/login
+---
+2019/12/15 12:02:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/15 12:02:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/15 12:02:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/15 12:33:08 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/15 15:33:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/15 15:33:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/15 15:33:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/15 15:33:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/15 18:56:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/16 07:32:49 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/16 07:37:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/16 15:07:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/17 00:45:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/17 02:03:20 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/17 02:06:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/17 02:13:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/17 08:15:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/20 01:51:56 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2019/12/21 15:26:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/21 15:26:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/21 15:26:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/21 15:26:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/21 17:10:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/21 17:10:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/21 17:10:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/21 17:10:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/22 17:13:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/site/login
+---
+2019/12/22 20:07:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/site/login
+---
+2019/12/22 20:13:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2019/12/23 07:27:01 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/site/login
+---
+2019/12/23 09:14:57 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2019/12/25 00:10:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2019/12/26 11:12:39 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/26 11:12:39 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/26 11:12:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/26 11:12:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/28 13:47:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/28 13:47:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/28 13:47:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/28 13:47:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/30 21:07:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/30 21:07:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/30 21:07:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/30 21:07:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2019/12/30 22:31:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2019/12/30 22:31:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2019/12/30 22:31:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2019/12/30 22:31:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2020/01/03 16:17:53 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/site/login
+---
+2020/01/04 01:07:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2020/01/04 01:07:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2020/01/04 01:07:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2020/01/04 01:07:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2020/01/04 15:23:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2020/01/04 15:23:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2020/01/04 15:23:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2020/01/04 15:23:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2020/01/05 15:59:02 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2020/01/05 15:59:02 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2020/01/05 15:59:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2020/01/05 15:59:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2020/01/05 23:10:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:7863:41A:1:C00000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:7863:41A...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:7863:41A:1:C00000:0:0:0:
+---
+2020/01/05 23:10:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:213F:3070:13E:820000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:213F:3070...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:213F:3070:13E:820000:0:0:0:
+---
+2020/01/05 23:10:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:1:65:65:53:CE40000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:1:65:65:53:...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:1:65:65:53:CE40000:0:0:0:
+---
+2020/01/05 23:10:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "1:0:19:1B1D:802:2:11A0000:0:0:0:". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1:0:19:1B1D:802...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/1:0:19:1B1D:802:2:11A0000:0:0:0:
+---
+2020/01/08 07:53:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2020/01/08 10:06:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2020/01/08 14:03:00 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:8001/
+---
+2020/01/08 15:11:36 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/08 15:19:26 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/09 07:56:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/09 10:50:48 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/16 22:55:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/18 07:53:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/18 16:27:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/18 17:24:41 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/18 19:10:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/20 10:36:52 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/20 14:39:52 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/21 01:08:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/21 05:34:42 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/21 06:06:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/21 06:07:01 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/21 06:07:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/21 09:53:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/22 05:33:20 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/23 05:07:14 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/23 10:04:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/01/25 09:34:09 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/25 14:11:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/25 14:11:52 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "logs". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('logs')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/logs
+HTTP_REFERER=http://79.143.187.93:8001/
+---
+2020/01/25 18:06:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/26 00:59:48 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/26 15:49:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/messages
+---
+2020/01/29 00:10:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/29 00:10:10 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/29 01:56:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/29 17:22:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/messages
+---
+2020/01/29 20:14:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/29 20:14:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/01/29 21:40:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/30 07:40:09 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/messages
+---
+2020/01/30 12:27:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/01/31 20:24:00 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "_async/AsyncResponseService". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('_async/AsyncRes...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/_async/AsyncResponseService
+---
+2020/02/01 11:17:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/02/03 00:13:53 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/02/03 10:08:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.187.93:8001/site/login
+---
+2020/02/03 11:45:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/05 01:51:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "apis". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('apis')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/apis
+---
+2020/02/05 02:22:25 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/07 02:53:36 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "nmaplowercheck1581047354". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('nmaplowercheck1...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/nmaplowercheck1581047354
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "flumemaster.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('flumemaster.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/flumemaster.jsp
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "HNAP1". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('HNAP1')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/HNAP1
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "evox/about". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('evox/about')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/evox/about
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "dfshealth.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('dfshealth.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dfshealth.jsp
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "status.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('status.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/status.jsp
+---
+2020/02/07 03:49:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "sdk". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sdk')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sdk
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "browseDirectory.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('browseDirectory...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/browseDirectory.jsp
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "jobtracker.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('jobtracker.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/jobtracker.jsp
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "master.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('master.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/master.jsp
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "tasktracker.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('tasktracker.jsp')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/tasktracker.jsp
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "rs-status". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('rs-status')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/rs-status
+---
+2020/02/07 03:49:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".git/HEAD". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.git/HEAD')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.git/HEAD
+---
+2020/02/07 03:49:18 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2020/02/07 08:15:18 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/02/07 08:31:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/07 08:31:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/09 07:38:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/09 11:37:42 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/09 19:27:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/02/09 19:27:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/ijs". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/ijs')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/ijs/
+---
+2020/02/09 22:13:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/09 22:50:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/15 12:54:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/02/20 08:50:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/05 10:05:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "properties/description.dhtml". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('properties/desc...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/properties/description.dhtml
+---
+2020/03/05 10:05:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "login.html". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('login.html')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/login.html
+---
+2020/03/05 10:05:19 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "MSWSMTP/Common/Authentication/Logon.aspx". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('MSWSMTP/Common/...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/MSWSMTP/Common/Authentication/Logon.aspx
+---
+2020/03/05 10:05:20 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "commoncgi/servlet/CCGIServlet". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('commoncgi/servl...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/commoncgi/servlet/CCGIServlet?ApHost=PDT_InterScan_NT&CGIAlias=PDT_InterScan_NT&File=logout.htm
+---
+2020/03/05 10:05:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "xmldata". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('xmldata')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/xmldata?item=All
+---
+2020/03/05 10:05:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "intruvert/jsp/admin/Login.jsp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('intruvert/jsp/a...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/intruvert/jsp/admin/Login.jsp
+---
+2020/03/05 10:05:22 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "Home.do". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('Home.do')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/Home.do
+---
+2020/03/05 10:05:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/03/05 10:05:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "sitemap.xml". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('sitemap.xml')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.xml
+---
+2020/03/05 10:05:23 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".cobalt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.cobalt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.cobalt
+---
+2020/03/05 10:05:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "admin.back". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin.back')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin.back
+---
+2020/03/05 10:05:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "file". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('file')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/file
+---
+2020/03/05 10:05:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "wavemaster.internal". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('wavemaster.inte...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/wavemaster.internal
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.html". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.ht...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.html
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.cgi
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.sh". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.sh')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.sh
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.pl". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.pl')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.pl
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.inc". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.in...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.inc
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.shtml". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.sh...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.shtml
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.asp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.as...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.asp
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.php3". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.ph...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.php3
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "hKBI_jTpMWLz.cfm". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('hKBI_jTpMWLz.cf...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/hKBI_jTpMWLz.cfm
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.html". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.html
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.cgi
+---
+2020/03/05 10:05:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.sh". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.sh
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.pl". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.pl
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.inc". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.inc
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.shtml". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.shtml
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.asp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.asp
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.php3". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.php3
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "cgi-bin/hKBI_jTpMWLz.cfm". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('cgi-bin/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/cgi-bin/hKBI_jTpMWLz.cfm
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.html". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.html
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.cgi
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.sh". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.sh
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.pl". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.pl
+---
+2020/03/05 10:05:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.inc". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.inc
+---
+2020/03/05 10:05:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.shtml". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.shtml
+---
+2020/03/05 10:05:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.asp". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.asp
+---
+2020/03/05 10:05:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.php3". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.php3
+---
+2020/03/05 10:05:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/hKBI_jTpMWLz.cfm". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/hKBI_jT...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/hKBI_jTpMWLz.cfm
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..\..\..\..\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..\\..\\..\\..\\..\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/..\..\..\..\..\..\..\..\..\..\windows\win.ini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..\..\..\..\..\..\..\..\..\..\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..\\..\\..\\..\\..\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/..\..\..\..\..\..\..\..\..\..\winnt\win.ini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "\..\..\..\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\..\\..\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "\..\..\..\..\..\..\..\..\..\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\..\\..\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwinnt%5cwin.ini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "\..\..\..\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\..\\..\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin%2eini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "\..\..\..\..\..\..\..\..\..\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\\..\\..\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwinnt%5cwin%2eini
+---
+2020/03/05 10:05:43 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.|./.|./.|./.|....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./windows/win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.|./.|./.|./.|....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./.|./winnt/win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..\..\..\..\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..\\..\\..\\..\\..\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\windows\win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..\..\..\..\..\..\..\..\..\..\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..\\..\\..\\..\\..\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\winnt\win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..\..\..\..\..\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..\\..\\..\\..\\..\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows%5cwin.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".../.../.../.../.../.../.../.../.../windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.../.../.../......')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.../.../.../.../.../.../.../.../.../windows/win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request ".../.../.../.../.../.../.../.../.../winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('.../.../.../......')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/.../.../.../.../.../.../.../.../.../winnt/win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "...\...\...\...\...\...\...\...\...\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('...\\...\\...\\......')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/...\...\...\...\...\...\...\...\...\windows\win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "...\...\...\...\...\...\...\...\...\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('...\\...\\...\\......')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/...\...\...\...\...\...\...\...\...\winnt\win.ini
+---
+2020/03/05 10:05:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..../..../..../..../..../..../..../..../..../windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..../..../..../...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/..../..../..../..../..../..../..../..../..../windows/win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..../..../..../..../..../..../..../..../..../winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..../..../..../...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/..../..../..../..../..../..../..../..../..../winnt/win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "....\....\....\....\....\....\....\....\....\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('....\\....\\....\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/....\....\....\....\....\....\....\....\....\windows\win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "....\....\....\....\....\....\....\....\....\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('....\\....\\....\\...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/....\....\....\....\....\....\....\....\....\winnt\win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "nessus\..\..\..\..\..\..\windows\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('nessus\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/nessus\..\..\..\..\..\..\windows\win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "nessus\..\..\..\..\..\..\winnt\win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('nessus\\..\\..\\.....')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/nessus\..\..\..\..\..\..\winnt\win.ini
+---
+2020/03/05 10:05:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "../../../../../../windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC2\x80../\xC2\x80../\xC2\x80../...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%80../%80../%80../%80../%80../%80../windows/win.ini
+---
+2020/03/05 10:05:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "../../../../../../winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC2\x80../\xC2\x80../\xC2\x80../...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%80../%80../%80../%80../%80../%80../winnt/win.ini
+---
+2020/03/05 10:05:46 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "À.À./À.À./À.À./À.À./À.À./windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC3\x80.\xC3\x80./\xC3\x80.\xC3\x80./\xC3...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%c0.%c0./%c0.%c0./%c0.%c0./%c0.%c0./%c0.%c0./windows/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "À.À./À.À./À.À./À.À./À.À./winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC3\x80.\xC3\x80./\xC3\x80.\xC3\x80./\xC3...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%c0.%c0./%c0.%c0./%c0.%c0./%c0.%c0./%c0.%c0./winnt/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "À.À./À.À./À.À./À.À./windows/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC3\x80.\xC3\x80./\xC3\x80.\xC3\x80./\xC3...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%c0%2e%c0%2e/%c0%2e%c0%2e/%c0%2e%c0%2e/%c0%2e%c0%2e/windows/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "À.À./À.À./À.À./À.À./winnt/win.ini". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('\xC3\x80.\xC3\x80./\xC3\x80.\xC3\x80./\xC3...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/%c0%2e%c0%2e/%c0%2e%c0%2e/%c0%2e%c0%2e/%c0%2e%c0%2e/winnt/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/dir/../../../../../../../../../../../windows/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/dir/../../../../../../../../../../../winnt/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/windows/win.ini
+---
+2020/03/05 10:05:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/winnt/win.ini
+---
+2020/03/05 10:05:48 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "..../..../..../..../..../..../..../..../..../..../..../..../etc/passwd". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('..../..../..../...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/..../..../..../..../..../..../..../..../..../..../..../..../etc/passwd
+---
+2020/03/05 10:05:48 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/dir/../../../../../../etc/passwd
+---
+2020/03/05 10:05:48 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "scripts/fake.cgi". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('scripts/fake.cg...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/scripts/fake.cgi?arg=/dir/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+---
+2020/03/05 17:24:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/05 17:38:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/05 20:15:31 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/05 21:13:28 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/06 08:35:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/06 12:29:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/06 12:29:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/07 13:07:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/03/07 13:07:25 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/ijs". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/ijs')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/ijs/
+---
+2020/03/11 09:00:47 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/11 09:00:50 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "app/protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('app/protected/r...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/protected/runtime/application.log
+---
+2020/03/11 09:00:56 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('protected/runti...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/protected/runtime/application.log
+---
+2020/03/11 09:00:59 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('runtime/applica...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/runtime/application.log
+---
+2020/03/11 09:01:00 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('application.log')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/application.log
+---
+2020/03/11 09:01:02 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('runtime/applica...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/runtime/application.log
+---
+2020/03/11 09:01:02 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('protected/runti...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/protected/runtime/application.log
+---
+2020/03/11 09:01:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "app/protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('app/protected/r...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/protected/runtime/application.log
+---
+2020/03/11 09:03:02 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "app/protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('app/protected/r...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/protected/runtime/application.log
+---
+2020/03/11 09:03:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('protected/runti...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/protected/runtime/application.log
+---
+2020/03/11 09:03:09 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('runtime/applica...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/runtime/application.log
+---
+2020/03/11 09:03:11 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('application.log')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/application.log
+---
+2020/03/11 09:03:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('runtime/applica...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/runtime/application.log
+---
+2020/03/11 09:03:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('protected/runti...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/protected/runtime/application.log
+---
+2020/03/11 09:03:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "app/protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('app/protected/r...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/app/protected/runtime/application.log
+---
+2020/03/11 10:22:19 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/11 22:26:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/12 17:48:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/12 17:50:06 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/12 23:16:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/13 05:07:45 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/13 10:38:26 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop3345.com:2001/site/login
+---
+2020/03/13 20:04:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop3345.com:2001/
+---
+2020/03/13 22:04:24 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "protected/runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('protected/runti...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/protected/runtime/application.log
+---
+2020/03/13 22:04:29 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "runtime/application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('runtime/applica...')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/runtime/application.log
+---
+2020/03/13 22:04:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "application.log". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('application.log')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/application.log
+---
+2020/03/14 07:45:44 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/14 10:41:13 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/16 09:09:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/23 12:45:51 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/23 12:59:04 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/23 13:03:49 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://develop3345.com:2001/site/login
+---
+2020/03/23 19:00:34 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/24 14:46:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/24 20:51:55 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/25 06:41:21 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/27 09:29:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/27 13:49:05 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/messages
+---
+2020/03/27 13:58:17 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/27 15:57:07 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/
+---
+2020/03/27 17:44:33 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/27 17:56:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/27 18:08:53 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/27 18:14:35 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://www.develop3345.com:2001/site/login
+---
+2020/03/29 06:36:15 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "robots.txt". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2020/05/06 17:02:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/06 17:12:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/
+---
+2020/05/07 10:15:54 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/07 14:49:38 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/07 15:19:30 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/07 15:19:41 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/
+---
+2020/05/07 15:20:20 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/messages
+---
+2020/05/07 20:07:12 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/09 08:42:18 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/12 09:04:32 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/05/15 10:10:18 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/
+---
+2020/05/15 11:55:16 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/messages/5ebbc140d596750e7d637ae2
+---
+2020/05/18 14:10:40 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://173.212.224.249:2001/site/login
+---
+2020/08/13 09:04:01 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "favicon.ico". in /var/www/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /var/www/public/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://79.143.178.11:5001/site/login
+---
